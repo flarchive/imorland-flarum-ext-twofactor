@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ianm/twofactor.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/twofactor) or the [upstream repository](https://github.com/imorland/flarum-ext-twofactor).
 
-**0** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.1.0-beta.1`
+**28** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.1.0-beta.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-09-10 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-09-10 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.1) |
+| `1.0.10` | 2023-11-08 | `^1.8.3` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.10) |
+| `1.0.11` | 2023-11-17 | `^1.8.3` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.11) |
+| `1.0.2` | 2023-09-13 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.2) |
+| `1.0.3` | 2023-09-13 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.3) |
+| `1.0.4` | 2023-10-14 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.4) |
+| `1.0.5` | 2023-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.5) |
+| `1.0.6` | 2023-10-17 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.6) |
+| `1.0.7` | 2023-10-19 | `^1.8.0` | [Browse](https://github.com/flarchive/imorland-flarum-ext-twofactor/tree/archive/v1.0.7) |
+
+[View all 28 versions](https://github.com/flarchive/imorland-flarum-ext-twofactor/tags)
 
 Catalog entry: [packages/imorland-flarum-ext-twofactor.json](https://github.com/flarchive/archive-index/blob/main/packages/imorland-flarum-ext-twofactor.json)
 
